@@ -14,3 +14,6 @@ Open Source developers being called out is pretty lit, that's me.
 
 aw ferris is so cute!
 
+### Getting Started
+
+For something as popular, or as powerful, or both, as Rust; I sure expected the syntax to look more complicated. hello world at least was a lot easier than expected. Making a lazy_static! interface was wildly complex, or it felt that way, for deno 🤷‍♂️
