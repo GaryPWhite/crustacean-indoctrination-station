@@ -1,0 +1,4 @@
+[package]
+name = "structs" # the name of the package
+version = "0.1.0"    # the current version, obeying semver
+authors = ["Gary <gwhite@wayfair.com>"]
